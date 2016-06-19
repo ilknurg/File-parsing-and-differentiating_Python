@@ -1,3 +1,10 @@
+############################################
+# Author: ilknur Gokcuoglu
+# UCSC_Python_Course
+# 11/24/2015
+#######################################
+
+
 
 import sys
 import string
